@@ -15,7 +15,7 @@ You need a working environment with:
 
 ## General Installation instructions
 
-he best option to start with this project is cloning it in your PC:
+He best option to start with this project is cloning it in your PC:
 
 ```
 git clone https://github.com/Angeles1999/Crud.git
